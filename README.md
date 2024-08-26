@@ -44,4 +44,4 @@ To conduct a comprehensive analysis of pizza sales data using  SQL queries to un
 
 ## Connect us
 If you found this presentation helpful and would like to connect for more insights, please feel 
-free to connect me on [LinkedIn](www.linkedin.com/in/vishal-tyagi00)
+free to connect me on [LinkedIn](wwww.linkedin.com/in/vishal-tyagi00)
